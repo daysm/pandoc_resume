@@ -13,7 +13,7 @@ Education
 2018-2020
 :   **M.Sc. ICT Innovation**; TU Berlin & KTH
 
-    *This*
+    *Track: Autonomous Systems*
 
     *This too*
 
